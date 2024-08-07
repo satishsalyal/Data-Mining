@@ -8,14 +8,14 @@ Data mining is the process of discovering patterns, correlations, trends, and an
  Information: Processed data that is meaningful and useful.
  Knowledge: Insights derived from information through analysis and interpretation.
 
-### Goals of Data Mining:
+## Goals of Data Mining:
 
 - Prediction: Predict future trends based on historical data.
 - Classification: Assign data to predefined categories or classes.
 - Clustering: Group similar data together based on certain characteristics.
 - Association Rule Learning: Discover relationships between variables in large datasets.
 
-### Steps in Data Mining:
+## Steps in Data Mining:
 
 - Data Cleaning: Removing noise and inconsistent data.
 - Data Integration: Combining data from multiple sources.
@@ -42,14 +42,14 @@ Regression: Predicting a continuous numeric value based on input data.
 Anomaly Detection: Identifying unusual data points that do not fit the general pattern.
 Trend Analysis: Finding trends in time-series data.
 
-### Additional Functionalities:
+## Additional Functionalities:
 
 Outlier Analysis: Detecting data points that deviate significantly from the rest of the dataset.
 Sequential Pattern Mining: Discovering regular sequences in data.
 Evolution Analysis: Analyzing changes in data over time.
 3. Classification of Data Mining Systems
 
-### Based on Databases:
+## Based on Databases:
 
 Relational Data Mining Systems: Operate on data stored in relational databases.
 Transactional Data Mining Systems: Work with transactional data.
@@ -57,7 +57,7 @@ Spatial Data Mining Systems: Handle spatial data such as geographical informatio
 Temporal Data Mining Systems: Focus on time-series data.
 Multimedia Data Mining Systems: Deal with multimedia data like images, videos, and audio.
 
-### Based on Knowledge Type:
+## Based on Knowledge Type:
 
 Concept Description Systems: Describe concepts or classes.
 Association Analysis Systems: Find associations between items.
@@ -79,6 +79,7 @@ Healthcare Data Mining Systems: For healthcare data analysis.
 
 
 ### 4. Data Mining Task Primitives
+
 ## Task Primitives:
 
 - Set of Data to be Mined: Specify the data to be explored.
