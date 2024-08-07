@@ -1,21 +1,21 @@
-### 1. Fundamentals of Data Mining
-## Definition:
+## 1. Fundamentals of Data Mining
+### Definition:
 Data mining is the process of discovering patterns, correlations, trends, and anomalies in large sets of data with the goal of extracting useful information and making data-driven decisions.
 
-## Key Concepts:
+### Key Concepts:
 
 - Data: Raw facts and figures that are collected and stored.
  Information: Processed data that is meaningful and useful.
  Knowledge: Insights derived from information through analysis and interpretation.
 
-## Goals of Data Mining:
+### Goals of Data Mining:
 
 - Prediction: Predict future trends based on historical data.
 - Classification: Assign data to predefined categories or classes.
 - Clustering: Group similar data together based on certain characteristics.
 - Association Rule Learning: Discover relationships between variables in large datasets.
 
-## Steps in Data Mining:
+### Steps in Data Mining:
 
 - Data Cleaning: Removing noise and inconsistent data.
 - Data Integration: Combining data from multiple sources.
@@ -25,9 +25,9 @@ Data mining is the process of discovering patterns, correlations, trends, and an
 - Pattern Evaluation: Identifying the truly interesting patterns representing knowledge.
 - Knowledge Presentation: Visualizing the knowledge in an understandable format.
 
-### 2. Data Mining Functionalities
+## 2. Data Mining Functionalities
 
-## Descriptive Data Mining:
+### Descriptive Data Mining:
 
 Characterization: Summarizing general characteristics of data.
 Discrimination: Differentiating between different classes or concepts.
@@ -35,21 +35,22 @@ Frequent Patterns: Finding patterns that occur frequently in the data, such as i
 Clustering: Grouping similar data objects into clusters without predefined classes.
 Association: Identifying relationships between variables using association rules.
 
-## Predictive Data Mining:
+### Predictive Data Mining:
 
 Classification: Assigning data to predefined categories or classes.
 Regression: Predicting a continuous numeric value based on input data.
 Anomaly Detection: Identifying unusual data points that do not fit the general pattern.
 Trend Analysis: Finding trends in time-series data.
 
-## Additional Functionalities:
+### Additional Functionalities:
 
 Outlier Analysis: Detecting data points that deviate significantly from the rest of the dataset.
 Sequential Pattern Mining: Discovering regular sequences in data.
 Evolution Analysis: Analyzing changes in data over time.
-3. Classification of Data Mining Systems
 
-## Based on Databases:
+## 3. Classification of Data Mining Systems
+
+### Based on Databases:
 
 Relational Data Mining Systems: Operate on data stored in relational databases.
 Transactional Data Mining Systems: Work with transactional data.
@@ -57,7 +58,7 @@ Spatial Data Mining Systems: Handle spatial data such as geographical informatio
 Temporal Data Mining Systems: Focus on time-series data.
 Multimedia Data Mining Systems: Deal with multimedia data like images, videos, and audio.
 
-## Based on Knowledge Type:
+### Based on Knowledge Type:
 
 Concept Description Systems: Describe concepts or classes.
 Association Analysis Systems: Find associations between items.
@@ -78,9 +79,9 @@ Financial Data Mining Systems: For financial data analysis.
 Healthcare Data Mining Systems: For healthcare data analysis.
 
 
-### 4. Data Mining Task Primitives
+## 4. Data Mining Task Primitives
 
-## Task Primitives:
+### Task Primitives:
 
 - Set of Data to be Mined: Specify the data to be explored.
 - Kind of Knowledge to be Mined: Define the type of knowledge to be discovered, such as associations, clusters, or classifications.
@@ -88,7 +89,7 @@ Healthcare Data Mining Systems: For healthcare data analysis.
 - Interestingness Measures: Criteria to evaluate the patterns discovered, like support, confidence, lift, etc.
 - Presentation and Visualization of Patterns: Methods to present the discovered patterns, including graphs, charts, and tables.
 
-## Example:
+### Example:
 
 Set of Data to be Mined: Sales transactions in a retail store.
 Kind of Knowledge to be Mined: Association rules to identify items frequently bought together.
