@@ -8,7 +8,7 @@ Descriptive data mining focuses on summarizing the data and identifying patterns
 - __Cluster Analysis__: Grouping similar data points into clusters based on specific criteria, useful in customer segmentation and image recognition.
 - __Data Characterization__: Summarizing the general characteristics or features of a target data set, providing an overall picture of the data.
 - __Data Discrimination__: Comparing the general features of target classes or data objects, highlighting differences between them.
-- __Data Discrimination__: Comparing the general features of target classes or data objects, highlighting differences between them.
+
 
 ## Predictive Data Mining
 Predictive data mining aims to predict future trends and behaviors based on historical data. Key techniques include:
@@ -25,7 +25,7 @@ Several techniques are employed in data mining to extract meaningful information
 - __Neural Networks__: Computational models inspired by the human brain, capable of identifying complex patterns and relationships in data.
 - __Support Vector Machines (SVM)__: A supervised learning model used for classification and regression analysis.
 - __K-Nearest Neighbors (KNN)__: A simple, instance-based learning algorithm used for classification and regression.
- -__Association Rule Mining__: Identifying interesting relationships between variables, commonly used in market basket analysis.
+- __Association Rule Mining__: Identifying interesting relationships between variables, commonly used in market basket analysis.
 - __Clustering Algorithms__: Including K-means, hierarchical clustering, and DBSCAN, used to group similar data points.
 - __Ensemble Methods__: Combining multiple models to improve performance, such as Random Forest and Gradient Boosting.
 
