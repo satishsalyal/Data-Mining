@@ -1,7 +1,7 @@
 # Data Mining Functionalities
 Data mining functionalities can be broadly categorized into two types: descriptive and predictive.
 
-##vDescriptive Data Mining
+## Descriptive Data Mining
 Descriptive data mining focuses on summarizing the data and identifying patterns that describe the underlying relationships. Key techniques include:
 
 __Association Analysis__: Identifying relationships between variables in a data set, often used in market basket analysis to find products frequently bought together.
