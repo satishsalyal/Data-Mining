@@ -39,7 +39,7 @@ Data mining is used across various industries to solve complex problems and make
 - __Manufacturing__: Predictive maintenance, quality control, and supply chain optimization.
 - __Retail__: Market basket analysis, inventory management, and personalized marketing.
 - __Telecommunications__: Customer churn prediction, network optimization, and service quality improvement.
-- __E-commercev: Recommendation systems, customer segmentation, and sentiment analysis.
+- __E-commerce__: Recommendation systems, customer segmentation, and sentiment analysis.
 
 ## Benefits of Data Mining
 Data mining offers numerous benefits, including:
