@@ -5,7 +5,7 @@ __L-T-P:__ 2-0-2 __Internal Assessment:__ 40 <br>
 __Credits__: 4 __Duration of Examination:__ 3 Hours <br>
 
 
-## Objective
+- [] ## Objective
 The course will introduce concepts of data warehousing and data mining. It also introduces
 various techniques and tasks involved in data mining.
 
